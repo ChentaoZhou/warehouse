@@ -1,5 +1,4 @@
 //Chentao Zhou 2457388
-//little change
 public class Board {
 	Column[] cols;
 	int columns;
